@@ -42,7 +42,7 @@ O projeto segue uma abordagem de análise de dados educacionais, composta pelas 
 5.  **Análise de Impacto:** Comparação dos dados pré e pós-intervenção, utilizando análise de dados e estatística descritiva para avaliar mudanças no conhecimento e na percepção dos estudantes sobre conhecimentos essenciais para a medicina de precisão.
 
 ## Estrutura do Projeto
-* `/docs`: (Em andamento) Revisão bibliográfica, recortes de artigos e materiais adicionais.
+* [`/docs`](./docs): (Em andamento) Revisão bibliográfica, recortes de artigos e materiais adicionais.
 * `/data`: (Em breve) Dados anonimizados dos questionários aplicados.
 * `/notebooks`: (Em breve) Análises de dados, visualizações e comparações pré/pós-intervenção.
 
