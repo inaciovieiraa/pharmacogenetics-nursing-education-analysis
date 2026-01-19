@@ -1,4 +1,8 @@
 # Pharmacogenetics Nursing Education Analysis
+![UFMG](https://img.shields.io/badge/INSTITUTION-UFMG-B20000?style=for-the-badge&logo=school)
+![Focus](https://img.shields.io/badge/FOCUS-PHARMACOGENETICS-blue?style=for-the-badge&logo=dna)
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-yellow?style=for-the-badge)
+
 > **Data-driven analysis of pharmacogenetics education impact. | Projeto de análise de dados e impacto educacional em farmacogenética para estudantes de Enfermagem (UFMG).**
 
 🇺🇸 *[Read this in English](README_EN.md)*
