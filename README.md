@@ -40,4 +40,7 @@ O projeto segue uma abordagem de análise de dados educacionais, composta pelas 
 ## Estrutura do Projeto
 * `/docs`: (Em andamento) Revisão bibliográfica, recortes de artigos e materiais adicionais.
 * `/data`: (Em breve) Dados anonimizados dos questionários aplicados.
-*
+* `/notebooks`: (Em breve) Análises de dados, visualizações e comparações pré/pós-intervenção.
+
+---
+*Projeto de Extensão - UFMG 2025/26*
