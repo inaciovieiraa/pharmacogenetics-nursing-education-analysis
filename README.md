@@ -19,7 +19,7 @@ Identificar e analisar, por meio de dados, lacunas na formação acadêmica sobr
 ## O Problema (Baseado na Literatura Científica)
 Estudos recentes apontam que enfermeiros apresentam baixa confiança na interpretação de testes genéticos e na aplicação da farmacogenética na prática clínica. A formação acadêmica tradicional ainda oferece pouca preparação para esses conhecimentos que são essenciais para a medicina de precisão, o que pode impactar a segurança do paciente e a tomada de decisão clínica.
 
-> *Fonte: Análise bibliográfica de 17 artigos científicos (ver pasta `/docs`).*
+> *Fonte: Análise bibliográfica de 17 artigos científicos ([ver pasta /docs](./docs)).*
 
 ## Tech Stack (Planejamento)
 Este projeto foi desenhado para utilizar uma abordagem orientada a dados (*data-driven*). As seguintes ferramentas serão implementadas nas próximas etapas:
