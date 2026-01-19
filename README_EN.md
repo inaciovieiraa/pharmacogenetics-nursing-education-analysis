@@ -41,7 +41,7 @@ The project follows an educational data analysis approach, consisting of the fol
 5.  **Impact Analysis:** Comparison of pre- and post-intervention data using data analysis and descriptive statistics to assess changes in students' knowledge and perception of essential precision medicine concepts.
 
 ## Project Structure
-* `/docs`: (In progress) Literature review, article excerpts, and additional materials.
+* [`/docs`](./docs): (In progress) Literature review, article excerpts, and additional materials.
 * `/data`: (Coming soon) Anonymized data from applied questionnaires.
 * `/notebooks`: (Coming soon) Data analysis, visualizations, and pre/post-intervention comparisons.
 
