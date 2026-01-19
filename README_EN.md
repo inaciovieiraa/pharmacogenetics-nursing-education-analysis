@@ -19,7 +19,7 @@ To identify and analyze, through data, gaps in academic training regarding genet
 ## The Problem (Based on Scientific Literature)
 Recent studies indicate that nurses demonstrate low confidence in interpreting genetic tests and applying pharmacogenetics in clinical practice. Traditional academic training still offers little preparation for this knowledge, which is essential for precision medicine, potentially impacting patient safety and clinical decision-making.
 
-> *Source: Bibliographic analysis of 17 scientific articles (see `/docs` folder).*
+> *Source: Bibliographic analysis of 17 scientific articles ([see /docs folder](./docs)).*
 
 ## Tech Stack (Planned)
 This project was designed to use a data-driven approach. The following tools will be implemented in the next stages:
