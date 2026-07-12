@@ -59,7 +59,7 @@ Na turma de biomedicina, a intervenção foi realizada exclusivamente através d
    ![Papel do Biomédico](./plots/biomedicina/pos/02_responsabilidade_biomedicina.png)
 
 ### 📊 Diagnóstico e Linha de Base (Farmácia)
-A análise inicial da turma de Farmácia funcionou como um diagnóstico importante para o nosso projeto. Os dados mostraram um ponto curioso: embora os estudantes mandem muito bem na teoria básica (100% de acerto no conceito de farmacogenética), a turma ainda fica dividida na hora de aplicar esse raciocínio no cenário de "Alergia vs. Metabolismo".
+A análise inicial da turma de Farmácia funcionou como um diagnóstico importante para o nosso projeto. Os dados mostraram um ponto curioso: embora os estudantes demonstrem alto domínio da teoria base (100% de acerto no conceito de farmacogenética), a turma ainda fica dividida na hora de aplicar esse raciocínio no cenário de "Alergia vs. Metabolismo".
 
 Além disso, **65.2%** dos alunos demonstraram depender bastante do senso comum na questão do "Mito da Bula" antes de receberem qualquer intervenção. Esse resultado prova na prática a necessidade de expandir as aulas e os grupos de discussão para os futuros farmacêuticos nos próximos semestres.
 <p>
