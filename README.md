@@ -16,8 +16,8 @@
 > **Biomedicina (2026/1) ✅**
 > *Coleta pré e pós-intervenção concluídas. Intervenção realizada apenas com Aula Teórica Expositiva (sem GD), atuando como grupo controle metodológico para as demais turmas.*
 >
-> **Farmácia (2026/1) ⏳**
-> *Coleta e análise da baseline (Pré-intervenção) concluídas. Aguardando aplicação da aula, GD e coleta pós-intervenção.*
+> **Farmácia (2026/1) 🔍**
+> *Coleta e análise de linha de base (Diagnóstico) concluídas. Os dados comprovaram a necessidade da intervenção, e a aplicação completa (Aula + GD) com nova turma foi programada para o ciclo 2026/2.*
 
 ---
 
@@ -58,10 +58,10 @@ Na turma de biomedicina, a intervenção foi realizada exclusivamente através d
 * **Empoderamento Profissional:** A discordância total de que os riscos genéticos são de responsabilidade "exclusiva da equipe médica" saltou de **72.2%** para **94.1%**, consolidando a compreensão do biomédico sobre a importância da sua responsabilidade técnica nos laudos.
    ![Papel do Biomédico](./plots/biomedicina/pos/02_responsabilidade_biomedicina.png)
 
-### 📊 Resultados Preliminares (Baseline)
-Atualmente, a turma de Farmácia é a única que aguarda a etapa final da pesquisa (aplicação do GD e coleta pós-intervenção). A análise exclusiva da sua linha de base revelou um contraste interessante entre o domínio teórico e a tomada de decisão prática:
+### 📊 Diagnóstico e Linha de Base (Farmácia)
+A análise inicial da turma de Farmácia funcionou como um diagnóstico importante para o nosso projeto. Os dados mostraram um ponto curioso: embora os estudantes mandem muito bem na teoria básica (100% de acerto no conceito de farmacogenética), a turma ainda fica dividida na hora de aplicar esse raciocínio no cenário de "Alergia vs. Metabolismo".
 
-* **Farmácia:** Embora os estudantes dominem a teoria base (100% de acerto no conceito de farmacogenética), a turma se dividiu na hora de aplicar o raciocínio clínico no cenário de Alergia vs. Metabolismo. Além disso, **65.2%** dos alunos demonstraram forte dependência do senso comum no "Mito da Bula" antes de receberem qualquer intervenção.
+Além disso, **65.2%** dos alunos demonstraram depender bastante do senso comum na questão do "Mito da Bula" antes de receberem qualquer intervenção. Esse resultado prova na prática a necessidade de expandir as aulas e os grupos de discussão para os futuros farmacêuticos nos próximos semestres.
 <p>
   <img src="./plots/farmacia/pre/q6_conceito_farmacogenetica_PRE.png" width="45%" />
   <img src="./plots/farmacia/pre/q4_alergia_metabolismo_PRE.png" width="45%" />
@@ -77,8 +77,8 @@ Este projeto utiliza programação estatística orientada a dados para extrair i
 ## 📕 Metodologia
 O projeto segue uma abordagem de análise de dados educacionais composta pelas etapas a seguir:
 1. **Revisão Bibliográfica:** Análise de literatura científica para identificação de lacunas de conhecimento em genética e farmacogenética entre estudantes e profissionais da área da saúde.
-2. **Coleta de Dados (Baseline):** Questionário estruturado antes da intervenção.
-3. **Intervenção Educativa (Aula Teórica + GD):** Realização de uma aula expositiva ministrada pelo professor titular sobre os fundamentos da farmacogenética. Nas turmas da Enfermagem e Farmácia, a aula é seguida por um Grupo de Discussão (GD) focado na aplicação de casos clínicos reais. A turma de Biomedicina recebeu apenas a aula teórica (grupo controle metodológico).
+2. **Coleta de Dados (Baseline):** Questionário estruturado antes da intervenção para mapear o conhecimento prévio dos alunos.
+3. **Intervenção Educativa (Aula Teórica + GD):** Realização de uma aula expositiva ministrada pelo professor titular sobre os fundamentos da farmacogenética. Na turma de Enfermagem, a aula é seguida por um Grupo de Discussão (GD) focado na aplicação de casos clínicos reais. A turma de Biomedicina recebeu apenas a aula teórica (grupo controle) e a Farmácia participou da etapa inicial de diagnóstico da pesquisa.
 4. **Coleta Pós-Intervenção:** Novo questionário para pareamento de respostas, aplicado após a intervenção educacional ser concluída.
 5. **Análise de Impacto:** Uso de script unificado em R para limpar, cruzar e gerar visualizações com a finalidade de avaliar mudanças no raciocínio clínico das turmas.
 
@@ -90,10 +90,11 @@ O projeto segue uma abordagem de análise de dados educacionais composta pelas e
 
 ## 🚀 Próximas Etapas
 
-1. Iniciar a intervenção educacional na turma de Farmácia (Aula Teórica + GD).
-2. Realizar a coleta dos dados pós-intervenção educacional na turma de Farmácia.
-3. Realizar a análise comparativa Pré vs. Pós da Farmácia utilizando o pipeline automatizado em R.
-4. Cruzar os dados analíticos das três coortes: Comparar a eficácia da retenção clínica entre os grupos que tiveram GD (Enfermagem e Farmácia) versus o grupo que recebeu apenas instrução teórica (Biomedicina).
+1. Ajustar e aprimorar o questionário com base nos aprendizados e desafios deste primeiro ciclo.
+2. Aplicar a intervenção educacional completa (Aula Teórica + GD) com uma nova turma de Farmácia.
+3. Rodar o script no R para analisar os dados pré e pós da Farmácia, comparando a evolução da turma.
+4. Cruzar os resultados dos três cursos para entender como o Grupo de Discussão impacta o aprendizado em comparação com a aula teórica isolada.
+5. Coletar dados das novas turmas de Enfermagem e Biomedicina, utilizando o mesmo método de intervenção.
 
 ## ▶️ Como Executar a Análise (Portabilidade Total)
 Este projeto foi desenvolvido de forma totalmente automatizada e estruturada. Para garantir que os caminhos relativos funcionem na sua máquina sem que você precise alterar nenhuma linha de código, siga o padrão profissional de execução de projetos em R:
